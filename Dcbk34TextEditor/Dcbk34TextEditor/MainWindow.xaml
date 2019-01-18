@@ -1,0 +1,28 @@
+﻿<Window x:Class="Dcbk34TextEditor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dcbk34TextEditor"
+        mc:Ignorable="d"
+        Closing="DataWindow_Closing"
+        Title="TextEditor - untitled" Height="500" Width="700">
+    <Grid>
+        <DockPanel>
+            <Menu DockPanel.Dock="Top" >
+                <MenuItem Header="File">
+                    <MenuItem Header="New" Click="NewFileActionEvent"/>
+                    <MenuItem Header="Open" Click="OpenActionEvent"/>
+                    <MenuItem Header="Save" Click="SaveFileActionEvent"/>
+                    <MenuItem Header="Save As" Click="SaveAsActionEvent"/>
+                    <Separator/>
+                    <MenuItem Header="Exit" Click="CloseCommandHandler"/>
+                </MenuItem>
+                <MenuItem Header="Help">
+                    <MenuItem Header="About" Click="AboutMeActionEvent"/>
+                </MenuItem>
+            </Menu>
+            <TextBox x:Name="TextEditor" FontSize="20" FontFamily="Arial"  AcceptsReturn="True" AcceptsTab="True" Language="en-US" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto"/>
+        </DockPanel>
+    </Grid>
+</Window>

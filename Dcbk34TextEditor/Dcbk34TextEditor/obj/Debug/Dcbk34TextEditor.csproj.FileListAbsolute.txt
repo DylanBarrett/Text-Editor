@@ -1,0 +1,15 @@
+C:\Users\dylan\Desktop\Dcbk34TextEditor\Dcbk34TextEditor\obj\Debug\Dcbk34TextEditor.csprojAssemblyReference.cache
+C:\Users\dylan\Desktop\Dcbk34TextEditor\Dcbk34TextEditor\obj\Debug\MainWindow.g.cs
+C:\Users\dylan\Desktop\Dcbk34TextEditor\Dcbk34TextEditor\obj\Debug\App.g.cs
+C:\Users\dylan\Desktop\Dcbk34TextEditor\Dcbk34TextEditor\obj\Debug\Dcbk34TextEditor_MarkupCompile.cache
+C:\Users\dylan\Desktop\Dcbk34TextEditor\Dcbk34TextEditor\obj\Debug\Dcbk34TextEditor_MarkupCompile.lref
+C:\Users\dylan\Desktop\Dcbk34TextEditor\Dcbk34TextEditor\bin\Debug\Dcbk34TextEditor.exe.config
+C:\Users\dylan\Desktop\Dcbk34TextEditor\Dcbk34TextEditor\bin\Debug\Dcbk34TextEditor.exe
+C:\Users\dylan\Desktop\Dcbk34TextEditor\Dcbk34TextEditor\bin\Debug\Dcbk34TextEditor.pdb
+C:\Users\dylan\Desktop\Dcbk34TextEditor\Dcbk34TextEditor\obj\Debug\MainWindow.baml
+C:\Users\dylan\Desktop\Dcbk34TextEditor\Dcbk34TextEditor\obj\Debug\Dcbk34TextEditor.g.resources
+C:\Users\dylan\Desktop\Dcbk34TextEditor\Dcbk34TextEditor\obj\Debug\Dcbk34TextEditor.Properties.Resources.resources
+C:\Users\dylan\Desktop\Dcbk34TextEditor\Dcbk34TextEditor\obj\Debug\Dcbk34TextEditor.csproj.GenerateResource.cache
+C:\Users\dylan\Desktop\Dcbk34TextEditor\Dcbk34TextEditor\obj\Debug\Dcbk34TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\dylan\Desktop\Dcbk34TextEditor\Dcbk34TextEditor\obj\Debug\Dcbk34TextEditor.exe
+C:\Users\dylan\Desktop\Dcbk34TextEditor\Dcbk34TextEditor\obj\Debug\Dcbk34TextEditor.pdb
